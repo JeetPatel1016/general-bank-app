@@ -1,11 +1,7 @@
-import './App.css';
-import Hello from './components/Hello.js'
+import Navbar from "./components/Navbar";
 
 function App() {
-  return (
-    <div className="App">
-      <Hello/>
-    </div>
+return ( <Navbar />
   );
 }
 
