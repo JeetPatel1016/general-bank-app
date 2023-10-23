@@ -1,0 +1,7 @@
+asgiref @ file:///Users/ec2-user/ci_py311/asgiref_1678390266874/work
+Django @ file:///Users/ec2-user/ci_py311/django_1678411010555/work
+django-cors-headers==4.3.0
+djangorestframework==3.14.0
+python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/python-dotenv-split_1693865766170/work
+pytz==2023.3.post1
+sqlparse @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_cb77ukgrpu/croot/sqlparse_1690901947630/work
